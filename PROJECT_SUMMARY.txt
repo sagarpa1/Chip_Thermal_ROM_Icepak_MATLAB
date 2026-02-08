@@ -1,0 +1,17 @@
+Physics-informed Reduced Order Thermal Model for High-Power Chip
+
+This project combines ANSYS Icepak CFD and MATLAB regression to build a Reduced Order
+Model (ROM) for rapid prediction of die temperature and heat flow.
+
+Key Contributions:
+- Parametric CFD simulations
+- ROM development using MATLAB
+- Thermal resistance and heat transfer coefficient extraction
+- Instant thermal prediction without CFD
+
+Results:
+ROM predictions closely matched CFD trends across operating conditions.
+
+Note:
+Detailed derivations and full methodology are intentionally excluded from this
+repository. Full report available on request.
